@@ -1,0 +1,55 @@
+@media (max-width:500px) {
+
+    iframe {
+        
+        width: 250px;
+        height: 150px;
+    }
+
+    h1 {
+        font-size: 7vw;
+        
+        
+    }
+
+    .green {
+        font-size: 2rem;
+    }
+
+
+    #titlespan {
+        font-size: 7vw;
+    }
+
+    .bottle {
+        left:65%;
+    }
+
+   .section1 {
+       margin:2rem;
+   }
+
+   .section1 p {
+       padding-top:7rem;
+       
+   }
+
+   .s2div p {
+       margin:2rem;
+       padding-top: 10rem;
+   }
+
+   .section3 {
+       margin-top:10rem;
+   }
+
+   .s4wrapper {
+       margin:25%;
+
+       
+   }
+
+
+    
+     
+}
